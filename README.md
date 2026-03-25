@@ -11,4 +11,6 @@ What I Hope to Learn
 - Full Stack Development.  
 - Cloud Computing basics.
 
+- GOOGLE FORM LINK FOR DIGITAL LITERACY AWARENESS QUIZ: https://docs.google.com/forms/d/17j7MHalonoRuI9WUFpZt0_867wyPsEoheTSnlcLmyww/edit
+
 
