@@ -28,15 +28,15 @@
 
 📫 Email: mousumiparida454@gmail.com
 
-📊 GitHub Stats
+## 🔥 GitHub Streak
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Mousumiparida123456&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mousumiparida123456&theme=radical)
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=Mousumiparida123456&theme=radical)
+## 📊 GitHub Stats
 
-✨ Fun Fact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mousumiparida123456&show_icons=true&theme=radical)
 
-I enjoy learning new technologies, participating in technical communities, and turning ideas into practical projects.
+
 
 
 
