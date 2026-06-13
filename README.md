@@ -1,15 +1,42 @@
- # Hi, I'm Mousumi Parida 
-- Branch: CSE (Health Informatics), VIT Bhopal University  
-- Year: 2025  
+ 👋 Hi, I'm Mousumi Parida
 
-I am passionate about solving Data Structures and Algorithms (DSA) problems and enjoy improving my problem-solving skills. Currently, I am learning Web Development and exploring Machine Learning concepts to build a strong foundation in both development and AI.
+🎓 CSE (Health Informatics) Student at VIT Bhopal University
 
-What I Hope to Learn
-- Large Language Models (LLMs) and Generative AI.  
-- Deep Learning and Neural Networks.  
-- Advanced Data Structures & Competitive Programming.  
-- Full Stack Development.  
-- Cloud Computing basics.
+💻 Passionate about Software Development, Problem Solving, and Artificial Intelligence
+
+🌱 Currently learning:
+
+- Data Structures & Algorithms (DSA)
+- Web Development
+- Machine Learning Fundamentals
+- Open Source Development
+
+🚀 My Goals
+
+- Contribute to open-source projects
+- Build impactful real-world applications
+- Strengthen my problem-solving skills
+- Explore AI and Generative AI technologies
+
+📍 Bhubaneswar, Odisha, India
+
+🌐 Portfolio: https://portfolio-fawn-tau-i97fmkzyfx.vercel.app/
+
+💼 LinkedIn: https://www.linkedin.com/in/mousumi-parida-706b0b315/
+
+🐙 GitHub: https://github.com/Mousumiparida123456
+
+📫 Email: mousumiparida454@gmail.com
+
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Mousumiparida123456&show_icons=true&theme=radical)
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=Mousumiparida123456&theme=radical)
+
+✨ Fun Fact
+
+I enjoy learning new technologies, participating in technical communities, and turning ideas into practical projects.
 
 
 
