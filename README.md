@@ -14,9 +14,10 @@
 🚀 My Goals
 
 - Contribute to open-source projects
-- Build impactful real-world applications
-- Strengthen my problem-solving skills
+- Build impactful real-world full stack applications
+- Strengthen my problem-solving skills (DSA) and CS fundamentals
 - Explore AI and Generative AI technologies
+- Compititive Programming
 
 📍 Bhubaneswar, Odisha, India
 
