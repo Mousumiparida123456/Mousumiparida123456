@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mousumiparida123456&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Mousumiparida123456&show_icons=true&theme=github_dark)
 
 # 👩‍💻 Skills & Technologies
 
