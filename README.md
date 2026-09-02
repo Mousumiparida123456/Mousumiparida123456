@@ -124,9 +124,13 @@ Nexora combines a modern finance dashboard with a dedicated risk-management laye
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mousumiparida123456&theme=radical)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mousumiparida123456&hide_border=true" />
+
+</div>
 
 ## 🏆 My Developer Journey
 
