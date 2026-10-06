@@ -117,36 +117,36 @@ Nexora combines a modern finance dashboard with a dedicated risk-management laye
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mousumiparida123456&theme=radical"
-    width="85%"
+    width="60%"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mousumiparida123456&theme=radical"
-    width="41%"
+    width="29%"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mousumiparida123456&theme=radical"
-    width="41%"
+    width="29%"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mousumiparida123456&theme=radical"
-    width="41%"
+    width="29%"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mousumiparida123456&layout=compact&theme=radical&hide_border=true"
-    width="41%"
+    width="29%"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Mousumiparida123456&theme=react-dark&hide_border=true&area=true"
-    width="85%"
+    width="60%"
   />
 </p>
 
