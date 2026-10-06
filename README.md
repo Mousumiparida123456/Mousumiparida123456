@@ -112,21 +112,56 @@ Nexora combines a modern finance dashboard with a dedicated risk-management laye
 
 ---
 
-
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mousumiparida123456&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mousumiparida123456&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mousumiparida123456&theme=radical"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mousumiparida123456&theme=react-dark&hide_border=true" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mousumiparida123456&theme=radical"
+    width="49%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mousumiparida123456&theme=radical"
+    width="49%"
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mousumiparida123456&theme=radical"
+    width="49%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mousumiparida123456&theme=radical"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mousumiparida123456&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"
+    width="49%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mousumiparida123456&layout=compact&theme=radical&hide_border=true"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mousumiparida123456&theme=react-dark&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
 
 ---
-
 
 
 ## 🏆 My Developer Journey
