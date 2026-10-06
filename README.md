@@ -110,47 +110,13 @@ Nexora combines a modern finance dashboard with a dedicated risk-management laye
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
----
+📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+        Contribution Overview
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mousumiparida123456&theme=radical"
-    width="60%"
-  />
-</p>
+       Stats     |     Languages
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mousumiparida123456&theme=radical"
-    width="29%"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mousumiparida123456&theme=radical"
-    width="29%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mousumiparida123456&theme=radical"
-    width="29%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mousumiparida123456&layout=compact&theme=radical&hide_border=true"
-    width="29%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mousumiparida123456&theme=react-dark&hide_border=true&area=true"
-    width="60%"
-  />
-</p>
-
----
+     Commit Languages
 
 
 ## 🏆 My Developer Journey
